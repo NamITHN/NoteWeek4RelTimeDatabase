@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">NoteWeek4</string>
+  <string name="no_note">There is no note</string>
+  <string name="add">Add new note</string>
+  <string name="time">Time       </string>
+  <string name="title">Title     </string>
+  <string name="content">Content </string>
+  <string name="infor">Information</string>
+</resources>
